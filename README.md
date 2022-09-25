@@ -1,4 +1,5 @@
 ### Luis Fernando de la Cruz Robledo UP210454
+![Imagen](https://github.com/UP210454/UP210454_CPP/blob/main/Imagenes/gif.gif)
 
 <!--
 **UP210454/UP210454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
