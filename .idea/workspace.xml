@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71cb0d57-73f6-4cdb-99d9-236267ab2bc6" name="Changes" comment="" />
+    <list default="true" id="71cb0d57-73f6-4cdb-99d9-236267ab2bc6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +28,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Abecedario">
+  <component name="RunManager" selected="Python.Tramos">
     <configuration name="Abecedario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UP210454_CPP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,8 +73,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Abecedario" />
         <item itemvalue="Python.Tramos" />
+        <item itemvalue="Python.Abecedario" />
       </list>
     </recent_temporary>
   </component>
