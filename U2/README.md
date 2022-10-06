@@ -18,8 +18,3 @@ Actividad sobre renta e impuestos (Python)
 Impresión de abecedario normal, al revés, números ascendentes y números descendentes. (C++)  
 <img src="Imagenes/U2E2.PNG">
 
-<li>Ejercicio 3  
-<li>Ejercicio 4  
-<li>Ejercicio 5  
-<li>Ejercicio 6  
-<li>Ejercicio 7  
