@@ -11,12 +11,12 @@ ___
 <li>Ejercicio 1  
 
 Actividad sobre renta e impuestos (Python)  
-<img src="U2/Imagenes/Ejercicio1.PNG">
+<img src="Imagenes/Ejercicio1.PNG">
 
 <li>Ejercicio 2  
 
 Impresión de abecedario normal, al revés, números ascendentes y números descendentes. (C++)  
-<img src="U2/Imagenes/Ejercicio2.PNG">
+<img src="Imagenes/Ejercicio2.PNG">
 
 <li>Ejercicio 3  
 <li>Ejercicio 4  
