@@ -40,6 +40,5 @@ int main()
     printf("La suma de los impares es: %d \n",impar);
     int suma_total=par+impar;
     printf("La suma total es: %d \n", suma_total);
-    system("pause");
     return 0;
 }

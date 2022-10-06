@@ -3,10 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="71cb0d57-73f6-4cdb-99d9-236267ab2bc6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/U2/Abecedario.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/U2/Abecedario.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/U2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/U2/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/U2/Tramos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/U1/03_TiposDatos.exe" beforeDir="false" afterPath="$PROJECT_DIR$/U1/03_TiposDatos.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/U1/05_Ciclos.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/U1/06_Edades.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/U1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/U1/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.E01_Tablas">
+  <component name="RunManager">
     <configuration name="Abecedario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UP210454_CPP" />
       <option name="INTERPRETER_OPTIONS" value="" />
