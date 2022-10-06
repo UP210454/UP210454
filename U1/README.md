@@ -1,7 +1,7 @@
 <center>  
 
 # Luis Fernando de la Cruz Robledo UP210454  
-![Imagen](U2/Imagenes/gif.gif)  
+![Imagen](Imagenes/gif.gif)  
 <h2>Bienvenido a mi repositorio</h2>  
 <h2>Aquí se subirán las capturas de mis códigos funcionando, algunos códigos están desarrollados en Python y otros en C++ pero ambos funcionan a la perfección.</h2>    
 
@@ -11,30 +11,30 @@ ___
 <li>Ejercicio 1  
 
 Mostrar hola mundo. (C++)  
-<img src="U1/Imagenes/Ejercicio1.png">
+<img src="Imagenes/U1E1.PNG">
 
 <li>Ejercicio 2  
 
 Mostrar en pantalla par o impar. (C++)  
-<img src="U1/Imagenes/Ejercicio2.png">
+<img src="Imagenes/U1E2.PNG">
 
 <li>Ejercicio 3  
 
 Mostrar los diferentes tipos de datos.(C++)  
-<img src="U1/Imagenes/Ejercicio3.png">  
+<img src="Imagenes/U1E3.PNG">  
 
 <li>Ejercicio 4  
 
 Mostrar la suma de los numeros pares e impares. (C++)  
-<img src="U1/Imagenes/Ejercicio4.png">  
+<img src="Imagenes/U1E4.png">  
 
 <li>Ejercicio 5  
 
 Mostrar el rango de edades.  
-<img src="U1/Imagenes/Ejercicio5.1.png">  
-<img src="U1/Imagenes/Ejercicio5.2.png">  
-<img src="U1/Imagenes/Ejercicio5.3.png">  
-<img src="U1/Imagenes/Ejercicio5.4.png">  
-<img src="U1/Imagenes/Ejercicio5.5.png">  
+<img src="Imagenes/U1E5_1.png">  
+<img src="Imagenes/U1E5_2.png">  
+<img src="Imagenes/U1E5_3.png">  
+<img src="Imagenes/U1E5_4.png">  
+<img src="Imagenes/U1E5_5.png">  
   
 
