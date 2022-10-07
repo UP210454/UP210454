@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71cb0d57-73f6-4cdb-99d9-236267ab2bc6" name="Changes" comment="" />
+    <list default="true" id="71cb0d57-73f6-4cdb-99d9-236267ab2bc6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/U2/02_Puntuaciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/U2/03_Juegos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/U2/04_Pizzas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/U2/05_Temperaturas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/U2/06_Factura.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/U2/07_Binario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/U2/02_Abecedario.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/U2/CicloWhile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/U2/Tablas1al10.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Abecedario" />
         <item itemvalue="Python.E01_Tablas" />
         <item itemvalue="Python.Sumatoria" />
         <item itemvalue="Python.If simple" />
         <item itemvalue="Python.Tramos" />
-        <item itemvalue="Python.Abecedario" />
       </list>
     </recent_temporary>
   </component>
