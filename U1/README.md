@@ -34,7 +34,6 @@ Mostrar el rango de edades.
 ![Imagen](https://github.com/UP210454/UP210454_CPP/blob/main/Imagenes/U1E5_1.PNG)  
 ![Imagen](https://github.com/UP210454/UP210454_CPP/blob/main/Imagenes/U1E5_2.PNG)  
 ![Imagen](https://github.com/UP210454/UP210454_CPP/blob/main/Imagenes/U1E5_3.PNG)  
-![Imagen](https://github.com/UP210454/UP210454_CPP/blob/main/Imagenes/U1E5_4.PNG)  
-![Imagen](https://github.com/UP210454/UP210454_CPP/blob/main/Imagenes/U1E5_5.PNG)  
+![Imagen](https://github.com/UP210454/UP210454_CPP/blob/main/Imagenes/U1E5_4.PNG)   
   
 

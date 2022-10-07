@@ -11,10 +11,10 @@ ___
 <li>Ejercicio 1  
 
 Actividad sobre renta e impuestos (Python)  
-![Imagen](https://github.com/UP210454/UP210454_CPP/blob/main/Imagenes/U2E1.png)
+![Imagen](https://github.com/UP210454/UP210454_CPP/blob/main/Imagenes/U2E1.PNG)
 
 <li>Ejercicio 2  
 
 Impresión de abecedario normal, al revés, números ascendentes y números descendentes. (C++)  
-![Imagen](https://github.com/UP210454/UP210454_CPP/blob/main/Imagenes/U2E2.png)
+![Imagen](https://github.com/UP210454/UP210454_CPP/blob/main/Imagenes/U2E2.PNG)
 
