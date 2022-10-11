@@ -1,6 +1,6 @@
 multiplicacion=float
 nivel=str
-puntuacion=float(input("Introduce la puntuación del empleado: "))
+puntuacion=float(input("Introduce la puntuación del empleado:\n*0.0,\n*0.4\n*0.6 o más\n"))
 if puntuacion==0.0:
     multiplicacion=2400*0.0
     nivel='Inaceptable'

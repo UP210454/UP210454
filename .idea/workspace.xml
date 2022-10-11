@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71cb0d57-73f6-4cdb-99d9-236267ab2bc6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/U2/02_Puntuaciones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/U2/03_Juegos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/U2/04_Pizzas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/U2/05_Temperaturas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/U2/06_Factura.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/U2/07_Binario.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/U2/02_Abecedario.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/U2/CicloWhile.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/U2/Tablas1al10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/U2/02_Puntuaciones.py" beforeDir="false" afterPath="$PROJECT_DIR$/U2/02_Puntuaciones.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/U2/04_Pizzas.py" beforeDir="false" afterPath="$PROJECT_DIR$/U2/04_Pizzas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/U2/06_Factura.py" beforeDir="false" afterPath="$PROJECT_DIR$/U2/06_Factura.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/U2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/U2/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
