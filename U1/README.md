@@ -7,7 +7,7 @@
 
 ___
 
-# Unidad 2  
+# Unidad 1  
 <li>Ejercicio 1  
 
 Mostrar hola mundo. (C++)  
