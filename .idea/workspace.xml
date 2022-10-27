@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71cb0d57-73f6-4cdb-99d9-236267ab2bc6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/U2/E06_Sumatoria.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/U2/E07_Factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/U2/E08_Cadenas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/U2/E09_Switch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/U2/E10_Funciones.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/U2/Proyecto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/U2/Tkinter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/U2/TkinterEjemplo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/U3/E01_Funciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/U3/E02_Bisecciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/U3/E03_FuncionUpperLower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/U3/E04_Factorial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Abecedario">
     <configuration name="Abecedario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UP210454_CPP" />
       <option name="INTERPRETER_OPTIONS" value="" />
