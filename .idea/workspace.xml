@@ -3,17 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="71cb0d57-73f6-4cdb-99d9-236267ab2bc6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/U3/01_Bisecciones.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/U3/02_FuncionG2R_R2G.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/U3/03_AñoBisiesto.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/U3/04_Coseno.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/U3/05_DesviacionEstandar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/U3/06_DesgloseMonedas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/U3/07_NumerosRomanos.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/U3/08_OrdenarVector.py" beforeDir="false" afterPath="$PROJECT_DIR$/U3/08_OrdenarVector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/U3/E12_String.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/U3/E12_String.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/U3/E12_String.exe" beforeDir="false" afterPath="$PROJECT_DIR$/U3/E12_String.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/U3/03_Coseno.exe" beforeDir="false" afterPath="$PROJECT_DIR$/U3/03_Coseno.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/U3/09_Recursiva.exe" beforeDir="false" afterPath="$PROJECT_DIR$/U3/09_Recursiva.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
