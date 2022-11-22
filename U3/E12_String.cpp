@@ -20,4 +20,5 @@ int main(){
     cout << "Clear: " << texto << endl;
     texto.swap(texto2);
     cout << "Swap: " << texto << endl;
+    
 }
