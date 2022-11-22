@@ -11,46 +11,48 @@ ___
 <li>Exercise 1  
 
 Bisection  
-![Imagen]()
+![Imagen](https://github.com/UP210454/UP210454_CPP/blob/main/Imagenes/U3E1.PNG)
 
 <li>Exercise 2  
 
 Leap-year  
-![Imagen]()  
+![Imagen](https://github.com/UP210454/UP210454_CPP/blob/main/Imagenes/U3E2_1.PNG)  
+![Imagen](https://github.com/UP210454/UP210454_CPP/blob/main/Imagenes/U3E2_2.PNG)  
 
 <li>Exercise 3  
 
 Cosine  
-![Imagen]()    
+![Imagen](https://github.com/UP210454/UP210454_CPP/blob/main/Imagenes/U3E3_1.PNG)  
+![Imagen](https://github.com/UP210454/UP210454_CPP/blob/main/Imagenes/U3E3_2.PNG)    
 
 <li>Exercise 4  
 
 Standard deviation  
-![Imagen]()   
+![Imagen](https://github.com/UP210454/UP210454_CPP/blob/main/Imagenes/U3E4.PNG)   
 
 <li>Exercise 5  
 
 Coin breakdown  
-![Imagen]()  
+![Imagen](https://github.com/UP210454/UP210454_CPP/blob/main/Imagenes/U3E5.PNG)  
 
 <li>Exercise 6  
 
 Roman numbers  
-![Imagen]()  
+![Imagen](https://github.com/UP210454/UP210454_CPP/blob/main/Imagenes/U3E6.PNG)  
 
 <li>Exercise  7  
 
 RFC    
-![Imagen]()  
+![Imagen](https://github.com/UP210454/UP210454_CPP/blob/main/Imagenes/U3E7.PNG)  
 
 <li>Exercise 8  
 
 Sort an array  
-![Imagen]()  
+![Imagen](https://github.com/UP210454/UP210454_CPP/blob/main/Imagenes/U3E8.PNG)  
 
 <li> Exercise 9  
 
 Recursive function  
-![Imagen]()
+![Imagen](https://github.com/UP210454/UP210454_CPP/blob/main/Imagenes/U3E9.PNG)
 
 
