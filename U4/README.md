@@ -9,6 +9,6 @@ ___
 
 # Unit 4  
 
-![Imagen](https://github.com/UP210454/UP210454_CPP/blob/main/Imagenes/U4.PNG)
+![Imagen](https://github.com/UP210454/UP210454_CPP/blob/main/Imagenes/U4.png)
 
 
