@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71cb0d57-73f6-4cdb-99d9-236267ab2bc6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/U4/Gato.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/U3/03_Coseno.exe" beforeDir="false" afterPath="$PROJECT_DIR$/U3/03_Coseno.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/U3/09_Recursiva.exe" beforeDir="false" afterPath="$PROJECT_DIR$/U3/09_Recursiva.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
